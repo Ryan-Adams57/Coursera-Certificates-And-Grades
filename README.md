@@ -1,6 +1,6 @@
-# Coursera-Certificates-And-Grades
+# Coursera-Certificates-And-Grades.
 
-View my Coursera Certificates, Dates, And Grades.
+View my Coursera Certificates, Dates, And Grades:
 
 Course Name	Enrollment-Date-Grade Achieved
 
